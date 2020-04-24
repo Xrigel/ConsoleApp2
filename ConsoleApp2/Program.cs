@@ -13,4 +13,13 @@ namespace ConsoleApp2
             Console.WriteLine("Hello world");
         }
     }
+
+
+    public class person
+    {
+        public void Speak()
+        {
+            Console.WriteLine("he can speak");
+        }
+    }
 }
